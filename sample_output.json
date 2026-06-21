@@ -1,0 +1,30 @@
+{
+  "startup_idea": "A subscription box for eco-friendly, durable dog toys.",
+  "market_research": {
+    "target_audience": "Environmentally conscious pet owners, millennials/Gen Z who treat pets as family, urban professionals with high disposable income.",
+    "pain_points": "Most dog toys break in hours causing waste, standard toys contain microplastics and toxins, busy pet parents lack time to source clean alternatives.",
+    "opportunities": "Surging growth in pet industry spending, shift toward zero-waste/eco products, rising demand for convenient subscription delivery services."
+  },
+  "competitor_analysis": {
+    "competitors": "BarkBox (mainstream giant), KONG (durable but not focus on eco-materials), local eco-boutiques (fragmented, hard to find online).",
+    "strengths": "BarkBox has massive brand loyalty, scale, and customer data. KONG is renowned for durability.",
+    "weaknesses": "BarkBox toys are often low-quality plastic and imported; KONG has static product lines and no subscription experience customization.",
+    "market_gaps": "No major subscription service focusing purely on sustainable, circular-economy, chew-resistant pet toys."
+  },
+  "product_strategy": {
+    "mvp_features": "Online subscription landing page, basic quiz to customize dog size/chew level, curated box with 2 eco-durable toys and 1 bag of organic treats, zero-waste return bag.",
+    "roadmap": "Phase 1: MVP subscription website with Shopify backend. Phase 2: User profile system and custom box selection. Phase 3: Toy recycling program (take-back for credit) and custom app.",
+    "technical_stack": "Frontend: Next.js or Webflow/Shopify. Backend: Shopify Plus for billing/subscriptions. Database: PostgreSQL for user personalization data. Hosting: Vercel."
+  },
+  "business_model": {
+    "pricing": "Tiered monthly subscription: $35/month (Essential Box), $49/month (Heavy Chewers Box), $60/month (Deluxe Box).",
+    "revenue_model": "Recurring direct-to-consumer (D2C) e-commerce subscription model with 45%+ gross margin goal.",
+    "monetization": "Secondary streams: One-off online store for individual favorite items, corporate pet gifting partnerships, co-branded toys with eco-brands."
+  },
+  "marketing_strategy": {
+    "positioning": "The sustainable choice for tough chewers. Combining durability with zero ecological footprint so you can spoil your pup guilt-free.",
+    "launch_strategy": "Pre-launch waitlist offering a 'First Box Free' raffle, partnership with green pet influencers on Instagram/TikTok, and a Kickstarter campaign to fund initial manufacturing.",
+    "acquisition_channels": "UGC (User Generated Content) campaigns of dogs playing, SEO focusing on 'sustainable pet toys', and hyper-targeted social media advertising aimed at eco-groups."
+  },
+  "executive_summary": "Foundry Blueprint Summary: Eco-durable pet subscription addresses a growing $140B pet market by combining convenience, sustainability, and durability. By launching a curated, circular D2C box model, the startup target premium pet-owners who are currently underserved by mainstream non-eco platforms."
+}
